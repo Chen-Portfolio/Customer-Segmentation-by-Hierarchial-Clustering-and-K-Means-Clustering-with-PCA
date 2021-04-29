@@ -54,4 +54,7 @@ The project has been divided into various steps which include:
 * Visualization by matplotlib and seaborn
 * Data Export 
 
+<a id='results'></a>
+## Results
 
+The results have been clearly documented in the Jupyter Notebook. Please refer [Customer Segmentation Project Workbook.ipynb]
