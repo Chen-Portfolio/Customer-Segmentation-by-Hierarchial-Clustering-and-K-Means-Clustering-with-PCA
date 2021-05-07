@@ -14,7 +14,7 @@ In this project, customers' demographical data of an E-commerce online shop has 
 This project aims to help the marketing department come up with specific advertisment strategy according to the sharing features of each customer group in order to more effectively 
 target each group.
 
-This project is divided into five steps:
+This project is divided into six steps:
 
 1. `Exploratory data analysis` in this part, statistical description examines the various statistical values of the seven variables of the dataset, and by using Pearson Correlation 
 method and heatmap, a clear correlation among seven variables was directly explored. 
